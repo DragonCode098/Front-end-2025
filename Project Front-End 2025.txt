@@ -2,3 +2,5 @@ Resolusi Project Front-end saya ditahun 2025 adalah
 -konsisten melakukan latihan UI UX figma dalam 3x seminggu 
 -melakukan latihan dasar bahasa pemrograman HTML 
 -melakukan pendalaman bahasa pemrograman HTML hingga Expert
+-mencoba hal baru dengan bahasa CSS
+-melakukan pendalaman bahasa pemrograman CSS hingga Expert
